@@ -27,7 +27,7 @@ December is the worst month to start a campaign, there were almost as many faile
 
 ### Outcomes by Goals
 
-![]()
+![Outcomes_vs_Goals](https://github.com/Brandonkish1/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 In general the smaller the goal the more likely the kickstarter campaign is to be successful, with the highest success rate being for goals under $1,000. Once the the goal exceeds $15,000 it is more likely to fail than succeed. The exception to this is the $35,000 to $45,000 range of goals. Louise's goal of 10,000 is more likely to succeed than fail.
 
