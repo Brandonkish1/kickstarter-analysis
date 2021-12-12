@@ -7,5 +7,17 @@ Lousie needs to raise $10,000 to produce her play Fever. This is an analysis of 
 
 ### Analysis
 
+I performed the analysis by creating pivot tables and charts on the kickstarter data set. I utilized the vlookup and countifs functions to get required data into the right locations in order to make the pivot tables.
 
 ### Challenges
+
+I had some trouble with the countifs function. I had forgot the "" around the text in the formula. This took me a little while to trouble shoot and before correcting it.
+
+## Results
+
+### Theater Outcomes by Launch Date
+
+
+### Outcomes by Goals
+
+### Limitations of Data
