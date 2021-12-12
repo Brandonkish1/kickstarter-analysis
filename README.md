@@ -13,7 +13,7 @@ I performed the analysis by creating pivot tables and charts on the kickstarter 
 
 I had some trouble with the countifs function. I had forgot the "" around the text in the formula. This took me a little while to trouble shoot and before correcting it.
 
-![]()
+![Theater_Outcomes_vs_Launch](https://github.com/Brandonkish1/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ## Results
 
