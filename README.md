@@ -25,8 +25,12 @@ December is the worst month to start a campaign, there were almost as many faile
 
 ### Outcomes by Goals
 
-
+In general the smaller the goal the more likely the kickstarter campaign is to be successful, with the highest success rate being for goals under $1,000. Once the the goal exceeds $15,000 it is more likely to fail than succeed. The exception to this is the $35,000 to $45,000 range of goals. Louise's goal of 10,000 is more likely to succeed than fail.
 
 ### Limitations of Data
 
+#### Limitations
+Some limitations to the data are its not a huge data set. Having more data could have possibly given different results. Another limitation is that there is data from 21 different coutries. Different countries may have different donation habits. Having all data from country that Louise wants to launch the play in may be better.
 
+#### Other Potential Analysis
+Another useful analysis would be to look at successful campaigns to determine the starting month of the campaigns that meet their goal the fastest. 
