@@ -13,17 +13,21 @@ I performed the analysis by creating pivot tables and charts on the kickstarter 
 
 I had some trouble with the countifs function. I had forgot the "" around the text in the formula. This took me a little while to trouble shoot and before correcting it.
 
+![]()
+
 ## Results
 
 ### Theater Outcomes by Launch Date
 
-![Theater_Outcomes_vs_Launch.png]
+![]()
 
 The summer is the best time to launch a kickstarter campaign with May, June and July having the most successful campaigns. May was the best month overall.
 
 December is the worst month to start a campaign, there were almost as many failed campaigns as there were successful.
 
 ### Outcomes by Goals
+
+![]()
 
 In general the smaller the goal the more likely the kickstarter campaign is to be successful, with the highest success rate being for goals under $1,000. Once the the goal exceeds $15,000 it is more likely to fail than succeed. The exception to this is the $35,000 to $45,000 range of goals. Louise's goal of 10,000 is more likely to succeed than fail.
 
