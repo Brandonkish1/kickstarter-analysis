@@ -17,7 +17,7 @@ I had some trouble with the countifs function. I had forgot the "" around the te
 
 ### Theater Outcomes by Launch Date
 
-!Theater_Outcomes_vs_Launch.png
+![Theater_Outcomes_vs_Launch.png]
 
 The summer is the best time to launch a kickstarter campaign with May, June and July having the most successful campaigns. May was the best month overall.
 
