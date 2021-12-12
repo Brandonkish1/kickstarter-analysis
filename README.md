@@ -13,13 +13,14 @@ I performed the analysis by creating pivot tables and charts on the kickstarter 
 
 I had some trouble with the countifs function. I had forgot the "" around the text in the formula. This took me a little while to trouble shoot and before correcting it.
 
-![Theater_Outcomes_vs_Launch](https://github.com/Brandonkish1/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Challanges.png](https://github.com/Brandonkish1/kickstarter-analysis/blob/main/Challanges.png)
+
 
 ## Results
 
 ### Theater Outcomes by Launch Date
 
-![]()
+![Theater_Outcomes_vs_Launch](https://github.com/Brandonkish1/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 The summer is the best time to launch a kickstarter campaign with May, June and July having the most successful campaigns. May was the best month overall.
 
